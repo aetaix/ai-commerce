@@ -4,15 +4,14 @@
 	import AssistantMessage from '$lib/components/messages/AssistantMessage.svelte';
 	import { ArrowUp } from '@lucide/svelte';
 	const chat = new Chat({
-		api: '/api/vendor',	
+		api: '/api/vendor',
 		onResponse: () => {
 			loading = false;
 		}
 	});
 
-	let loading = $state(false)
+	let loading = $state(false);
 	let chatContainer = $state<HTMLDivElement | null>(null);
-
 
 	function handleSubmit() {
 		const input = chat.input.trim();
@@ -31,6 +30,17 @@
 		}
 	});
 </script>
+
+<svelte:head>
+	<title>AI Commerce | Your online AI store</title>
+	<meta
+		name="description"
+		content=" AI Commerce is your online AI store, providing a wide range of AI tools and services to enhance your business operations. Our platform offers easy access to cutting-edge AI technologies, enabling you to leverage the power of artificial intelligence for your specific needs. Whether you're looking for AI-driven analytics, natural language processing, or machine learning solutions, we have the right tools for you. Join us today and transform your business with AI Commerce."
+	/>
+	<link rel="icon" href="/favicon.png" />
+	<link rel="apple-touch-icon" href="/favicon.png" />
+	<meta name="theme-color" content="#ffffff" />
+</svelte:head>
 
 <div bind:this={chatContainer} class="flex-grow overflow-y-auto">
 	<ul class="flex w-full flex-col gap-4 py-20">
