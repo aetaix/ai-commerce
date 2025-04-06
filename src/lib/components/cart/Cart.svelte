@@ -15,7 +15,10 @@
 
 <div class="border-l border-neutral-200 transition-all {cartOpen ? 'w-1/3' : 'w-0'}">
 	{#if cartOpen}
-		<div transition:fly={{ x: 100, duration: 300, delay: 100 }} class="flex h-full flex-col overflow-y-scroll">
+		<div
+			transition:fly={{ x: 100, duration: 300, delay: 100 }}
+			class="flex h-full flex-col overflow-y-scroll"
+		>
 			<header class="flex items-center justify-between p-4">
 				<h2>Cart</h2>
 				<button

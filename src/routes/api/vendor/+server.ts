@@ -7,7 +7,7 @@ export async function POST({ request }) {
 
 	const route = await AgentRouter(messages);
 
-    console.log('Route:', route);
+	console.log('Route:', route);
 
 	switch (route.choice) {
 		case 'text':
@@ -15,8 +15,8 @@ export async function POST({ request }) {
 		case 'product':
 			return (await VendorAgent(messages)).toDataStreamResponse();
 		case 'order':
-            return (await ChatAgent(messages)).toDataStreamResponse();
-        default:
-            return (await ChatAgent(messages)).toDataStreamResponse();
+			return (await ChatAgent(messages)).toDataStreamResponse();
+		default:
+			return (await ChatAgent(messages)).toDataStreamResponse();
 	}
 }

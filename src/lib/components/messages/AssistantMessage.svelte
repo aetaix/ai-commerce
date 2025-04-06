@@ -7,10 +7,9 @@
 
 <li class="prose mx-auto w-full max-w-xl">
 	{#if message.parts}
-		
 		{#each message.parts as part}
 			<div class="">
-				{#if part.type === "tool-invocation" && part.toolInvocation.state === "result"}
+				{#if part.type === 'tool-invocation' && part.toolInvocation.state === 'result'}
 					{#each part.toolInvocation.result as result}
 						{result.description}
 					{/each}

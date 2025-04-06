@@ -3,250 +3,250 @@
 		"id": 1,
 		"name": "Pantalon",
 		"description": "Un pantalon confortable et élégant.",
-        "category": "Vêtements",
-        "subcategory": "Pantalons",
-        "tags": ["pantalon", "vêtements", "mode"],
+		"category": "Vêtements",
+		"subcategory": "Pantalons",
+		"tags": ["pantalon", "vêtements", "mode"],
 		"price": 10.99,
 		"image": "/images/product1.jpg"
 	},
-    {
-        "id": 2,
-        "name": "T-shirt",
-        "description": "Un t-shirt en coton doux.",
-        "category": "Vêtements",
-        "subcategory": "T-shirts",
-        "tags": ["t-shirt", "vêtements", "mode"],
-        "price": 5.99,
-        "image": "/images/product2.jpg"
-    },
-    {
-        "id": 3,
-        "name": "Chaussures de sport",
-        "description": "Des chaussures de sport confortables.",
-        "category": "Chaussures",
-        "subcategory": "Sport",
-        "tags": ["chaussures", "sport", "mode"],
-        "price": 29.99,
-        "image": "/images/product3.jpg"
-    },
-    {
-        "id": 4,
-        "name": "Montre",
-        "description": "Une montre élégante.",
-        "category": "Accessoires",
-        "subcategory": "Montres",
-        "tags": ["montre", "accessoires", "mode"],
-        "price": 49.99,
-        "image": "/images/product4.jpg"
-    },
-    {
-        "id": 5,
-        "name": "Sac à dos",
-        "description": "Un sac à dos pratique pour le quotidien.",
-        "category": "Accessoires",
-        "subcategory": "Sacs",
-        "tags": ["sac", "accessoires", "mode"],
-        "price": 19.99,
-        "image": "/images/product5.jpg"
-    },
-    {
-        "id": 6,
-        "name": "Veste",
-        "description": "Une veste chaude pour l'hiver.",
-        "category": "Vêtements",
-        "subcategory": "Vestes",
-        "tags": ["veste", "vêtements", "mode"],
-        "price": 39.99,
-        "image": "/images/product6.jpg"
-    },
-    {
-        "id": 7,
-        "name": "Chapeau",
-        "description": "Un chapeau stylé pour l'été.",
-        "category": "Accessoires",
-        "subcategory": "Chapeaux",
-        "tags": ["chapeau", "accessoires", "mode"],
-        "price": 15.99,
-        "image": "/images/product7.jpg"
-    },
-    {
-        "id": 8,
-        "name": "Ceinture en cuir",
-        "description": "Une ceinture en cuir de haute qualité.",
-        "category": "Accessoires",
-        "subcategory": "Ceintures",
-        "tags": ["ceinture", "accessoires", "mode"],
-        "price": 25.99,
-        "image": "/images/product8.jpg"
-    },
-    {
-        "id": 9,
-        "name": "Lunettes de soleil",
-        "description": "Des lunettes de soleil tendance.",
-        "category": "Accessoires",
-        "subcategory": "Lunettes",
-        "tags": ["lunettes", "accessoires", "mode"],
-        "price": 35.99,
-        "image": "/images/product9.jpg"
-    },
-    {
-        "id": 10,
-        "name": "Pull en laine",
-        "description": "Un pull en laine doux et chaud.",
-        "category": "Vêtements",
-        "subcategory": "Pulls",
-        "tags": ["pull", "vêtements", "mode"],
-        "price": 29.99,
-        "image": "/images/product10.jpg"
-    },
-    {
-        "id": 11,
-        "name": "Baskets",
-        "description": "Des baskets confortables pour le quotidien.",
-        "category": "Chaussures",
-        "subcategory": "Baskets",
-        "tags": ["baskets", "chaussures", "mode"],
-        "price": 49.99,
-        "image": "/images/product11.jpg"
-    },
-    {
-        "id": 12,
-        "name": "Écharpe en laine",
-        "description": "Une écharpe en laine douce et chaude.",
-        "category": "Accessoires",
-        "subcategory": "Écharpes",
-        "tags": ["écharpe", "accessoires", "mode"],
-        "price": 19.99,
-        "image": "/images/product12.jpg"
-    },
-    {
-        "id": 13,
-        "name": "Gants en cuir",
-        "description": "Des gants en cuir élégants.",
-        "category": "Accessoires",
-        "subcategory": "Gants",
-        "tags": ["gants", "accessoires", "mode"],
-        "price": 29.99,
-        "image": "/images/product13.jpg"
-    },
-    {
-        "id": 14,
-        "name": "Tongs",
-        "description": "Des tongs confortables pour l'été.",
-        "category": "Chaussures",
-        "subcategory": "Tongs",
-        "tags": ["tongs", "chaussures", "mode"],
-        "price": 15.99,
-        "image": "/images/product14.jpg"
-    },
-    {
-        "id": 15,
-        "name": "Sandales",
-        "description": "Des sandales élégantes pour l'été.",
-        "category": "Chaussures",
-        "subcategory": "Sandales",
-        "tags": ["sandales", "chaussures", "mode"],
-        "price": 25.99,
-        "image": "/images/product15.jpg"
-    },
-    {
-        "id": 16,
-        "name": "Manteau",
-        "description": "Un manteau chaud pour l'hiver.",
-        "category": "Vêtements",
-        "subcategory": "Manteaux",
-        "tags": ["manteau", "vêtements", "mode"],
-        "price": 89.99,
-        "image": "/images/product16.jpg"
-    },
-    {
-        "id": 17,
-        "name": "Pantalon de jogging",
-        "description": "Un pantalon de jogging confortable.",
-        "category": "Vêtements",
-        "subcategory": "Jogging",
-        "tags": ["pantalon", "vêtements", "mode"],
-        "price": 29.99,
-        "image": "/images/product17.jpg"
-    },
-    {
-        "id": 18,
-        "name": "Tunique",
-        "description": "Une tunique élégante pour les occasions spéciales.",
-        "category": "Vêtements",
-        "subcategory": "Tuniques",
-        "tags": ["tunique", "vêtements", "mode"],
-        "price": 39.99,
-        "image": "/images/product18.jpg"
-    },
-    {
-        "id": 19,
-        "name": "Bottes",
-        "description": "Des bottes élégantes pour l'hiver.",
-        "category": "Chaussures",
-        "subcategory": "Bottes",
-        "tags": ["bottes", "chaussures", "mode"],
-        "price": 69.99,
-        "image": "/images/product19.jpg"
-    },
-    {
-        "id": 20,
-        "name": "Chaussettes",
-        "description": "Des chaussettes confortables.",
-        "category": "Accessoires",
-        "subcategory": "Chaussettes",
-        "tags": ["chaussettes", "accessoires", "mode"],
-        "price": 5.99,
-        "image": "/images/product20.jpg"
-    },
-    {
-        "id": 21,
-        "name": "Robe d'été",
-        "description": "Une robe légère pour l'été.",
-        "category": "Vêtements",
-        "subcategory": "Robes",
-        "tags": ["robe", "vêtements", "mode"],
-        "price": 39.99,
-        "image": "/images/product21.jpg"
-    },
-    {
-        "id": 22,
-        "name": "Chemise",
-        "description": "Une chemise élégante pour le bureau.",
-        "category": "Vêtements",
-        "subcategory": "Chemises",
-        "tags": ["chemise", "vêtements", "mode"],
-        "price": 29.99,
-        "image": "/images/product22.jpg"
-    },
-    {
-        "id": 23,
-        "name": "Short",
-        "description": "Un short confortable pour l'été.",
-        "category": "Vêtements",
-        "subcategory": "Shorts",
-        "tags": ["short", "vêtements", "mode"],
-        "price": 19.99,
-        "image": "/images/product23.jpg"
-    },
-    {
-        "id": 24,
-        "name": "Pull à capuche",
-        "description": "Un pull à capuche confortable.",
-        "category": "Vêtements",
-        "subcategory": "Pulls",
-        "tags": ["pull", "vêtements", "mode"],
-        "price": 39.99,
-        "image": "/images/product24.jpg"
-    },
-    {
-        "id": 25,
-        "name": "Bandeau",
-        "description": "Un bandeau stylé pour les cheveux.",
-        "category": "Accessoires",
-        "subcategory": "Bandeaux",
-        "tags": ["bandeau", "accessoires", "mode"],
-        "price": 9.99,
-        "image": "/images/product25.jpg"
-    }
+	{
+		"id": 2,
+		"name": "T-shirt",
+		"description": "Un t-shirt en coton doux.",
+		"category": "Vêtements",
+		"subcategory": "T-shirts",
+		"tags": ["t-shirt", "vêtements", "mode"],
+		"price": 5.99,
+		"image": "/images/product2.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Chaussures de sport",
+		"description": "Des chaussures de sport confortables.",
+		"category": "Chaussures",
+		"subcategory": "Sport",
+		"tags": ["chaussures", "sport", "mode"],
+		"price": 29.99,
+		"image": "/images/product3.jpg"
+	},
+	{
+		"id": 4,
+		"name": "Montre",
+		"description": "Une montre élégante.",
+		"category": "Accessoires",
+		"subcategory": "Montres",
+		"tags": ["montre", "accessoires", "mode"],
+		"price": 49.99,
+		"image": "/images/product4.jpg"
+	},
+	{
+		"id": 5,
+		"name": "Sac à dos",
+		"description": "Un sac à dos pratique pour le quotidien.",
+		"category": "Accessoires",
+		"subcategory": "Sacs",
+		"tags": ["sac", "accessoires", "mode"],
+		"price": 19.99,
+		"image": "/images/product5.jpg"
+	},
+	{
+		"id": 6,
+		"name": "Veste",
+		"description": "Une veste chaude pour l'hiver.",
+		"category": "Vêtements",
+		"subcategory": "Vestes",
+		"tags": ["veste", "vêtements", "mode"],
+		"price": 39.99,
+		"image": "/images/product6.jpg"
+	},
+	{
+		"id": 7,
+		"name": "Chapeau",
+		"description": "Un chapeau stylé pour l'été.",
+		"category": "Accessoires",
+		"subcategory": "Chapeaux",
+		"tags": ["chapeau", "accessoires", "mode"],
+		"price": 15.99,
+		"image": "/images/product7.jpg"
+	},
+	{
+		"id": 8,
+		"name": "Ceinture en cuir",
+		"description": "Une ceinture en cuir de haute qualité.",
+		"category": "Accessoires",
+		"subcategory": "Ceintures",
+		"tags": ["ceinture", "accessoires", "mode"],
+		"price": 25.99,
+		"image": "/images/product8.jpg"
+	},
+	{
+		"id": 9,
+		"name": "Lunettes de soleil",
+		"description": "Des lunettes de soleil tendance.",
+		"category": "Accessoires",
+		"subcategory": "Lunettes",
+		"tags": ["lunettes", "accessoires", "mode"],
+		"price": 35.99,
+		"image": "/images/product9.jpg"
+	},
+	{
+		"id": 10,
+		"name": "Pull en laine",
+		"description": "Un pull en laine doux et chaud.",
+		"category": "Vêtements",
+		"subcategory": "Pulls",
+		"tags": ["pull", "vêtements", "mode"],
+		"price": 29.99,
+		"image": "/images/product10.jpg"
+	},
+	{
+		"id": 11,
+		"name": "Baskets",
+		"description": "Des baskets confortables pour le quotidien.",
+		"category": "Chaussures",
+		"subcategory": "Baskets",
+		"tags": ["baskets", "chaussures", "mode"],
+		"price": 49.99,
+		"image": "/images/product11.jpg"
+	},
+	{
+		"id": 12,
+		"name": "Écharpe en laine",
+		"description": "Une écharpe en laine douce et chaude.",
+		"category": "Accessoires",
+		"subcategory": "Écharpes",
+		"tags": ["écharpe", "accessoires", "mode"],
+		"price": 19.99,
+		"image": "/images/product12.jpg"
+	},
+	{
+		"id": 13,
+		"name": "Gants en cuir",
+		"description": "Des gants en cuir élégants.",
+		"category": "Accessoires",
+		"subcategory": "Gants",
+		"tags": ["gants", "accessoires", "mode"],
+		"price": 29.99,
+		"image": "/images/product13.jpg"
+	},
+	{
+		"id": 14,
+		"name": "Tongs",
+		"description": "Des tongs confortables pour l'été.",
+		"category": "Chaussures",
+		"subcategory": "Tongs",
+		"tags": ["tongs", "chaussures", "mode"],
+		"price": 15.99,
+		"image": "/images/product14.jpg"
+	},
+	{
+		"id": 15,
+		"name": "Sandales",
+		"description": "Des sandales élégantes pour l'été.",
+		"category": "Chaussures",
+		"subcategory": "Sandales",
+		"tags": ["sandales", "chaussures", "mode"],
+		"price": 25.99,
+		"image": "/images/product15.jpg"
+	},
+	{
+		"id": 16,
+		"name": "Manteau",
+		"description": "Un manteau chaud pour l'hiver.",
+		"category": "Vêtements",
+		"subcategory": "Manteaux",
+		"tags": ["manteau", "vêtements", "mode"],
+		"price": 89.99,
+		"image": "/images/product16.jpg"
+	},
+	{
+		"id": 17,
+		"name": "Pantalon de jogging",
+		"description": "Un pantalon de jogging confortable.",
+		"category": "Vêtements",
+		"subcategory": "Jogging",
+		"tags": ["pantalon", "vêtements", "mode"],
+		"price": 29.99,
+		"image": "/images/product17.jpg"
+	},
+	{
+		"id": 18,
+		"name": "Tunique",
+		"description": "Une tunique élégante pour les occasions spéciales.",
+		"category": "Vêtements",
+		"subcategory": "Tuniques",
+		"tags": ["tunique", "vêtements", "mode"],
+		"price": 39.99,
+		"image": "/images/product18.jpg"
+	},
+	{
+		"id": 19,
+		"name": "Bottes",
+		"description": "Des bottes élégantes pour l'hiver.",
+		"category": "Chaussures",
+		"subcategory": "Bottes",
+		"tags": ["bottes", "chaussures", "mode"],
+		"price": 69.99,
+		"image": "/images/product19.jpg"
+	},
+	{
+		"id": 20,
+		"name": "Chaussettes",
+		"description": "Des chaussettes confortables.",
+		"category": "Accessoires",
+		"subcategory": "Chaussettes",
+		"tags": ["chaussettes", "accessoires", "mode"],
+		"price": 5.99,
+		"image": "/images/product20.jpg"
+	},
+	{
+		"id": 21,
+		"name": "Robe d'été",
+		"description": "Une robe légère pour l'été.",
+		"category": "Vêtements",
+		"subcategory": "Robes",
+		"tags": ["robe", "vêtements", "mode"],
+		"price": 39.99,
+		"image": "/images/product21.jpg"
+	},
+	{
+		"id": 22,
+		"name": "Chemise",
+		"description": "Une chemise élégante pour le bureau.",
+		"category": "Vêtements",
+		"subcategory": "Chemises",
+		"tags": ["chemise", "vêtements", "mode"],
+		"price": 29.99,
+		"image": "/images/product22.jpg"
+	},
+	{
+		"id": 23,
+		"name": "Short",
+		"description": "Un short confortable pour l'été.",
+		"category": "Vêtements",
+		"subcategory": "Shorts",
+		"tags": ["short", "vêtements", "mode"],
+		"price": 19.99,
+		"image": "/images/product23.jpg"
+	},
+	{
+		"id": 24,
+		"name": "Pull à capuche",
+		"description": "Un pull à capuche confortable.",
+		"category": "Vêtements",
+		"subcategory": "Pulls",
+		"tags": ["pull", "vêtements", "mode"],
+		"price": 39.99,
+		"image": "/images/product24.jpg"
+	},
+	{
+		"id": 25,
+		"name": "Bandeau",
+		"description": "Un bandeau stylé pour les cheveux.",
+		"category": "Accessoires",
+		"subcategory": "Bandeaux",
+		"tags": ["bandeau", "accessoires", "mode"],
+		"price": 9.99,
+		"image": "/images/product25.jpg"
+	}
 ]
